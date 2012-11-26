@@ -1,0 +1,107 @@
+
+Nutcastle English Brown Ale
+===========================
+
+Target Readings:
+	PB 1.043
+	OG 1.051
+	FG 1.013
+
+Actual Readings:
+	PB 1.048
+	OG 1.056
+	FG 1.014
+
+2012-11-18
+==========
+
+19:30
+
+Began brew day. Started with 6 gal of cold, filtered water. Cleaning and
+sterilization commences.
+
+20:20
+
+Added 1tsp gypsum to 'harden' the watter a little. In 5 gal, that raises
+the calcium content by about 60ppm. Water here is considered soft;
+per the Tualatin Valley Water District report, at most about 57-120
+ppm. Anywhere between 120 and 180 ppm would be hard enough for the
+spirit of the recipe. It also helps accentuate the hops, for good or
+ill.
+
+20:55
+
+Hit strike temp of about 158F. Began mash with 10lbs of maris
+otter. Looks like with the large burner, I can maintain mash temperature
+with short burns on the lowest setting. I've got three thermometers this
+time, and I'm fairly confident that I'm within a couple of degrees of
+152F, on the high side.
+
+21:35
+
+Added darker grains. At about 151F at the top, and about 158F or so in
+the middle of the pot.
+
+21:55
+
+Ended the mash. Temp at the top: 149F, middle: 155 in the
+middle. Volume: 5 gal. Added 1 gal cold filtered water.
+
+22:53
+
+Boil began. Added 1.5oz of Kent Goldings Hops.
+
+23:30
+
+Added the other half ounce of hops slightly early because I needed to
+put 'em in a bigger bag. The pellets expanded more than I thought they
+would. I ended up using the malt bag for the hops. Last time I felt that
+I might have wanted to use just a tiny bit more hops, so this time it's
+all two ounces. The black treacle was expired, so none of that in there
+this time.
+
+23:45
+
+My yeast starter is *3* packets of danstar nottingham in warm
+water. Better put 'er in the tub this time.
+
+23:53
+
+Boil ended. had to drain the hop bag. Not fun with the hot water, will
+remember to buy hop socks next time. Volume: 5.2gal.
+
+00:05
+
+Began crash-cooling with the copper coil.
+
+00:15
+
+Wort's at 85F. Racked to primary while sloshing the wort around.
+
+00:20
+
+Pitched yeast. I hope the yeast hadn't gotten too cold waiting outside
+while I crash'n'rack.
+
+00:52
+
+The wort tastes nice, though I hope that the hop isn't too powerful down
+the road. I'm pleased that the mashing went much more smoothly. I'm also
+pleased that I'm within 0.005 of my target original gravity. I might
+still have had the temp a bit too high at the bottom of the pot. I think
+the pot cozy is sounding like a fantastic idea, since I didn't need to
+turn the burner on very often during the mashing. In playing around with
+Brew target, it turns out that I'm *spot on* the original gravity number
+for having an extra pound or so of 2 row. Forgot I made that alteration
+to the recipe! I'll have to take that into account when I take my FG
+reading.
+
+2012-11-22
+==========
+
+09:32
+
+FG after two days: 1.014 Wow. Nottingham is aggressive! It looks like
+adding the dark grains to the last 20 minutes of the mash did exactly
+what I wanted it to do. We'll see after it conditions.
+

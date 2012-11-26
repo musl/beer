@@ -1,0 +1,175 @@
+
+
+Northern English Brown Ale
+==========================
+
+
+Target Readings:
+	PB 1.043
+	OG 1.051
+	FG 1.013
+
+Mike's Readings:
+	PB 1.060 (+0.017)
+	OG 1.070 (+0.019)
+	FG
+
+Dad's Readings:
+	PB 1.064 (+0.021)
+	OG 1.068 (+0.013)
+	FG
+
+
+2012-05-19
+==========
+
+
+13:50
+Began mash. Bags working perfectly. Mash smells really nice. There's
+also rattatouille in the oven, so there's lots of rosemary in the air.
+
+14:15
+Concerned about mash temp being too high. It's hard to keep the temp at
+the right point on our stove.
+
+14:50
+Stopped mash for dad. Poured hot water through the spent grain until the
+batch hit 5.8 gal for the boil.
+
+15:10
+Stopped mash for mike. A simple squeezing brought my batch up to size. I
+was surprised how much water was still in the grain.
+
+15:45
+Boil started for mike's batch. The foam on the top of the water looks
+great and we anticipate a good creamy head, if you can make that
+assessment now. Wish we had more than one long-handled spoon. Added 4 oz
+of Black Treacle.
+
+16:25
+Boil started for dad's batch.
+
+16:32
+Added second batch of hopps to mike's batch.
+
+16:45
+Boil ended for mike's batch. Right at 5 gal. Sweet.
+
+17:01
+Started Nottingham yeast starter in 86F water.
+Crash cooling began for mike's batch.
+
+17:10
+Added hopps to dad's batch.
+
+17:15
+Crash cooling ended for mikes batch. Racked to primary. Pitched yeast.
+
+17:25
+Boil ended for dad's batch. Right at 5 gal. Awesome.
+
+17:27
+Crash cooling started for dad's batch.
+
+17:50
+Crash cooling ended for dad's batch. Racked to primary. Pitched yeast.
+
+18:20
+Color's quite a bit darker than expected for both batches, especially
+for mine, given the black treacle. I think that the reason the OG
+readings came out so high is because there's a *lot* of grain dust in
+the batch. I'm not sure if I should adjust the target FG, but I guess
+we'll see how the beer behaves. If it shoots down to 1.013, we'll know
+it's because the dust settled out. If it finishes up at 1.020-1.030
+we'll know it's just error. Go figure.
+
+20:30
+Temp: 75+F
+The yeast is visibly active, slow bubbling.
+
+
+2012-05-20
+==========
+
+
+07:00
+Temp: 75+F
+The house is a-rockin'. Both batches churning quite vigorously. I
+suspect that the brew brothers' mill crushes the grain a bit too
+well. All the fine grain particles settled out within a couple hours,
+leaving 1/2" to 3/4" of sediment on the bottom of both carboys. The wort
+on top was clear and a nice color, which I hope means the immersion
+chiller worked well. By this morning though, the yeast had done a
+fine job of stirring everything back up. Looks like we're about 0.017
+off on gravity on average. That translates to about 2.2% Alcohol By
+Volume. That's a lot, but that assumes we actually make it down to
+the FG number in the recipe and that the readings were taken in clear
+wort. I suspect we can safely subtract that error due to the suspended
+grain particles that I should have let fall out before taking the
+reading.
+
+2012-05-21
+==========
+
+08:00
+Temp: 75+F
+I think the Nottingham yeast was the right way to go. It's getting a bit
+cooler in the house and closer to the target fermentation temp.  If it
+stays too warm, we run the risk of the yeast putting out too many fruity
+esters. That usually isn't a huge problem and gets better with a bit of
+age. That said, it's usually good to have it in that range for the first
+day or two to ensure a good start to fermentation. They're still rockin'
+out, so I think that's been accomplished.
+
+From the Danstar page on their Nottingham yeast:
+
+- Quick start to fermentation, which can be completed in 4 days above 17°C.
+- "The recommended fermentation temperature range of this strain is 14°
+ to 21°C (57° to 70°F) with good tolerance to low fermentation
+ temperatures [...]"
+
+I'll see if there's some way I can cool the carboys down, but I really
+don't think it'll be that big of a problem.
+
+20:00
+Temp: 74F
+Fermentation Noticably slowed. 1.5" of sediment in the bottom of each
+carboy. Beer was nearly clear. Shook both leaving some sediment at the
+bottom.
+
+2012-05-22
+==========
+
+07:00
+Fermentation continues to slow. Most of the sediment has settled, and
+there's a second layer of finer sediment that's settling as well. I
+expect this batch to clear in a week and a half, well before the
+bottling date of June 8.
+
+2012-05-25
+==========
+
+08:00
+The temperature in the house has been holding between 70-72F. I know
+that's slightly warmer than the yeast calls for, but it's close
+enough. The beer is still active, with an occasional bubble in the
+airlock and small fairly frequent bubbles on the surface.
+
+2012-06-02
+==========
+
+19:00
+Gravity Readings!
+Mine: 1.034
+Dad: 1.032
+estimated 4.6% to 4.8% ABV
+
+That's still about 0.020 above the recipe. (1.013) Given that we were
+off by nearly the same amount for the OG readings, I think there might
+be a problem with my hydrometer. In spite of that, the difference
+between the OG readings and the readings above indicates that the yeast
+behaved as predicted. I'll take official FG readings again just before
+we bottle to see if it dropped any further, but I don't think it'll drop
+more than 0.002 (0.25% ABV) or so. Optimistically, that puts both our
+batches right at 5%, exactly on target.
+
