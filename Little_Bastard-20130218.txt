@@ -1,0 +1,118 @@
+
+Little Bastard American Amber Ale
+=================================
+
+Target Readings:
+	PB 1.042
+	OG 1.049
+	FG 1.010
+
+Actual Readings:
+	PB 1.036 
+	OG 1.054 
+	FG 
+
+2013-02-18
+==========
+
+10:55
+
+Began brew day, sanitation, and cleaning. Added two packets danstar
+nottingham yeast to 1 cup of 85 F water.
+
+11:52
+
+Finished cleanup, started to heat 6 gal of mash water. Started to heat
+1.5 gal of sparge water
+
+Brew365.com mash & sparge calculator results:
+
+batch size      5 gal
+grain bill      9.75 lbs
+boil time       1 hour
+trub loss       0.5 gal
+equip. loss     0.01 gal
+mash thickness  2.5 qts/lb
+grain temp      70.0 F
+mash temp       152.0 F
+
+wort shrink     4%
+grain absp      0.13 gal/lb
+boiloff/hr      10%
+
+total water     7.64 gal
+mash water      6.09 gal
+sparge water    1.55 gal
+strike temp     158.56 F
+
+pb volume       6.37 gal
+
+12:33
+
+Began mash with base malt. The yeast has foamed up and is looking very
+happy.
+
+12:39
+
+Mash temp verified at 152 F. Covered large aluminum kettle with cutting
+board.
+
+12:45
+
+Forgot I had oats. Added them to the mash. Turned burners on low for a
+few minutes Mash temp 154 F.
+
+13:00
+
+Added the dark grains. Temp Reads 148 F. Turned burners on low for a few
+minutes.
+
+13:08
+
+Mash temp back at 152 F.
+
+13:14
+
+Mash temp at 151 F.
+
+13:33
+
+Mash ended. Final temp 148 F. Sparged with 1.5 gal. Preboil volume: 6.5
+gal.
+
+13:41
+
+Put a sample in the freezer to cool. Started heating the wort for the
+boil. Covered with a cutting board.
+
+14:23
+
+Hit rolling boil. Waiting for hot break.
+
+14:30
+
+Added 1 oz Chinook hops, beginning boil.
+
+14:50
+
+Boil volume: 6.0 gal.
+
+15:18
+
+Added 1 oz Saaz hops, 1 tsp Irish moss.
+
+15:30
+
+Boil volume: 6.75 gal. Removed hop sock. Took sample to check gravity.
+Boiling until I hit 6.5 gal, or the gravity lines up.
+
+15:50
+
+Boil stopped. OG 1.054. Post boil volume: 5.25 gal.
+
+14:13
+
+Crash cooled to 80 F. Racking to 5 gal carboy. Aerated by shaking the
+carboy while racking for > 1 minute. Stoppered 'er up, put 'em in the
+tub. 
+
