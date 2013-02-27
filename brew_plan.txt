@@ -1,0 +1,191 @@
+Master Brew Plan
+================================================================================
+
+- Do the math:
+
+    Variables:
+        - Batch Size            (5 gal)
+        - Mash Thickness        (2.5 qts/lbs)
+        - Mashed Grain Weight   (10 lbs)
+        - Boil Time             (60 min)
+        - Trub Loss             (0.5 gal)
+        - Equipment Loss        (0.01 gal)
+        - Grain Absorption      (0.13 gal/lb)
+        - Percent Boil-off      (10 %/hr)
+        - Prt. Rest Temp        (133 F)
+        - Sac. Rest Temp        (152 F)
+        - Mash Out Temp         (167 F)
+
+    Stuff to Calculate:
+        - Total Volume          (eg: 8 gal)
+          Use the mash calculator, but add a bit extra.
+
+        - Boil Volume           (BV, eg: 6.37 gal)
+          Mash Calculator: "Pre-Boil Wort Produced"
+
+        - Sac. Rest Water       (SRV, eg: 6.25 gal)
+          Mash Calculator: "Mash Water Needed"
+
+        - Sparge Water          (eg: 1.4 gal)
+          Mash Calculator: "Sparge Water Needed"
+
+        - Prt. Rest Strike Temp (eg: 137 F)
+          Mash Calculator: "Strike Temperature"
+
+        - Prt. Rest Water       (PRV, eg: 5.54 gal)
+          SRV / 1.24
+
+        - Step-up Water         (eg: 0.71 gal)
+          SRV - PRV
+
+        - Decoction Volume      (eg: 1.27 gal)
+          BV - BV / 1.25
+
+    Note 1: For this plan, it's easy to use the brew365 calculator,
+    setting the target mash temp to the protein rest temp.
+
+       http://www.brew365.com/mash_sparge_water_calculator.php 
+
+    Note 2: To calculate the amount of water you need for step 1 and
+    decoction, you'll need the ratio to divide the volume by:
+
+        (desired temp - current temp) / (212 F - current temp) 
+
+- Water Prep:
+
+    Clean out one or more kettles. Put the total volume of water you'll
+    need water out over-night to de-chlorinate if necessary.
+
+- Check ingredients:
+
+    - Grain
+    - Hops
+    - Water
+    - Yeast  
+
+- Prepare the yeast starter.
+
+- Add salts to the grain if desired for a different water profile.
+
+- Clean, sanitize, and check equipment.
+
+    - Mash Tun with Spigot
+    - Grain Bag for Mashing
+    - Boil Kettle
+    - Sanitization Bucket
+    - Auto-siphon and Tubing
+    - Story Stick(s)  
+    - Spoon
+    - Hop Sock(s)  
+    - Carboy
+    - Hydrometer & Vessel
+    - Sampling tool Bottle Wand or Thief
+    - Cooling Towel
+
+- Prepare protein rest water in the mash tun.
+
+- Strike:
+
+    Add grain to the mash tun, stir well to mix. Check and adjust PH if
+    necessary.
+
+- Protein Rest:
+
+    Hold the mash tun at 55 C (133 F) for 20 minutes.
+
+- Step-up:
+
+    Prepare step up water in boil kettle. Plan ahead so that it reaches
+    a boil just before the end of the protein rest.
+
+    At the end of the protein rest, slowly add boiling water to the
+    mash tun, stirring and taking temperature readings, stopping when
+    the saccrification rest temperature is reached. Cool and add any
+    remaining water to the mash tun.
+
+- Saccrification Rest:
+
+    Hold the mash tun at 66 C (152 F) for 60 minutes.
+
+- Prepare sparge water. Heat to mash out temperature.
+
+- Decoct:
+
+    Prepare the decoction. Plan ahead so that it reaches a boil before
+    the end of the sacc. rest.
+    
+    At the end of the saccrification rest, slowly add the decoction to
+    the mash tun, stirring and taking temperature readings, stopping
+    when the mash out temperature is reached. Cool and add any remaining
+    wort to the mash tun.
+
+- Mash Out:
+    
+    Hold the mash tun at 76 C (167 F) for 10 minutes.
+
+- Vorlauf:
+
+    Re-cycle wort across the grain until it runs clear, being careful
+    not to disturb the grain bed. It will form a natural filter.
+
+- Sparge:
+
+    Drain the mash tun into the boil kettle. Gently pour the sparge
+    water over the grain bed. When done, remove the grain bag and fully
+    drain the mash tun into the boil kettle.
+
+- Boil:
+
+    Perform hop additions, grain steeping, and addition of fining agents
+    as required by the recipe.
+
+- Crash cool to 68 F as quickly as possible
+
+- Aerate the wort:
+
+    Ideally, I'd want to do that with a stone and oxygen tank. At least
+    agitate the wort for a few minutes while racking it from the boil
+    kettle.
+
+- Pitch yeast.
+
+- Primary Fermentation:
+
+    Seal with an airlock filled with vodka or with a blow-off tube
+    terminated in a bucket filled with sanitizing solution.
+
+    Keep the carboy near 70 F for the first day. (or follow the
+    recommended starting temperature guidelines for the yeast)
+
+    Control fermentation temperature with a wet towel on the
+    carboy. Keep the yeast at the low end of its fermentation range.
+
+    Leave for 1-3 weeks, or until FG has been reached, which ever comes
+    first.
+
+- Secondary Fermentation:
+
+    If necessary, rack to a secondary carboy and add adjuncts or dry hop
+    it. Leave for the required time.
+
+- Bottle:
+
+    Clean and sanitize a bucket, bottles, capper, caps, auto siphon,
+    tubing, and bottling wand.
+
+    Prepare a priming solution with corn sugar or dry malt and put it in
+    a bucket. Heat 1-2 cups of water to a boil.  As the water cools, add
+    the proper amount of priming sugars.
+
+        For example, to get 2.3 volumes of CO2 with a 5 galon batch at
+        64F, use 3.73 oz of corn sugar or 5 oz of dry malt extract.
+
+    Rack the beer onto the priming solution, while stirring gently.
+
+    Use a bottling wand to fill each bottle, and cap.
+
+    Clean and store all equipment.
+
+    Box and store the bottles at 64F for two weeks. Place in cold
+    storage after they carb up.
+
