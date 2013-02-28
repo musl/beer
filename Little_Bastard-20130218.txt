@@ -10,7 +10,12 @@ Target Readings:
 Actual Readings:
 	PB 1.036 
 	OG 1.054 
-	FG 
+	FG 1.019 
+
+Other Figures:
+    ABV 4.59%
+    IBU 51
+    SRM 17
 
 2013-02-18
 ==========
@@ -103,8 +108,8 @@ Added 1 oz Saaz hops, 1 tsp Irish moss.
 
 15:30
 
-Boil volume: 6.75 gal. Removed hop sock. Took sample to check gravity.
-Boiling until I hit 6.5 gal, or the gravity lines up.
+Boil volume: 5.75 gal. Removed hop sock. Took sample to check gravity.
+Boiling until I hit 5.5 gal, or the gravity lines up.
 
 15:50
 
@@ -121,7 +126,11 @@ tub.
 
 19:39
 
-Gravity reading 1.022. Still actively fermenting. Fermentation temp held steady at 70 F for the first 24 hours, as recommended by the yeast mfr. After that we put a wet shirt on the carboy. This has kept the temperature between 66 and 68 F since. Removed the shirt, and it's still holding around 68 F. It's pretty much on track for about 53 hours.
+Gravity reading 1.022. Still actively fermenting. Fermentation temp
+held steady at 70 F for the first 24 hours, as recommended by the yeast
+mfr. After that we put a wet shirt on the carboy. This has kept the
+temperature between 66 and 68 F since. Removed the shirt, and it's still
+holding around 68 F. It's pretty much on track for about 53 hours.
 
 2013-02-25
 ==========
@@ -130,4 +139,26 @@ Gravity reading 1.022. Still actively fermenting. Fermentation temp held steady 
 
 Gravity reading: 1.020, ABV 4.46% so far. I've been putting a wet towel
 on the carboy to keep the temp around 66-68 F.
+
+2013-02-27
+==========
+
+22:33
+
+Gravity reading: 1.019. ABV 4.59% so far. Moved to the garage. It's 53 F
+in there right now. I plan on leaving it in there for about a week to
+settle. Hopefully it isn't too cold, but the yeast is supposed to be
+tolerant of temperatures down to 54 F. In any case, it should be warmer
+during the day in there, and I'm not sure how much I trust the garage
+door thermometer anyhow.
+
+The calculated SRM value matches the visual approximation. The taste
+test revealed a slight natural carbonation, forward hops, good malt
+character, and a tiny bit of sourness again. It's not like lacto, or an
+infection, but it's still really young. We'll see what it's like after a
+time.
+
+Read a post or two about nottingham. Aparently temp control is really
+important, and should be between 60-62 F. I'm still fermenting high.
+Also folks mention a sourness is common with it.
 
