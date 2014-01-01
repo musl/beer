@@ -1,0 +1,19 @@
+Brew Log
+--------
+
+Lake Sabrina Pale Ale
+
+Target
+	PB 1.000 
+	OG 1.000
+	FG 1.000 
+
+Actual
+	PB
+	OG
+	FG
+
+2014-01-01 12:30
+----------------
+
+
