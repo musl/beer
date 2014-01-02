@@ -4,16 +4,77 @@ Brew Log
 Lake Sabrina Pale Ale
 
 Target
-	PB 1.000 
-	OG 1.000
-	FG 1.000 
+	PB 1.042
+	OG 1.047
+	FG 1.012
 
 Actual
-	PB
-	OG
-	FG
+	PB 1.084 (3.5 gal)
+	OG 1.058
+	FG 
 
-2014-01-01 12:30
-----------------
+2014-01-01
+----------
 
+12:30
+
+Began sanitation & cleaning. The recipe doesn't call out numbers for
+SG. Using those from an IPA in brewtarget.
+
+13:00
+
+Doing a 'mini mash' with a small grain bag in 2.5 galons of water. Going
+for a target temp of 152 F. Will let it sit for a moment.
+
+13:32
+
+Reached 160 F. Giving it 10 minutes.
+
+13:49
+
+Removed the grain bag, gave it a good squeeze, brought the partial wort
+to a boil.
+
+13:57
+
+Added 1 Gal of cold water. Boil volume: 3.5 Gal.
+
+14:36
+
+The boil has started. Added the LME. 
+
+14:46
+
+Hot break. Added the first hop addition (1.5 oz n. brewer) and started
+the timer.
+
+15:25
+
+Added first addition: 0.5 oz centennial.
+
+15:32
+
+Added second addition of 0.5 oz n. brewer.
+
+15:37
+
+Third addition: 0.5 oz centennial.
+
+15:42
+
+Fourth adddition: 0.5 oz centennial.
+
+15:47
+
+Fifth & final addition (1 min remaining) 0.5 oz centennial.
+
+15:48
+
+Boil Ended.
+
+16:00
+
+Crash cooled to 76 F in about 10 minutes. Racked & pitched with the ~1
+qt starter. It wasn't very energetic yeast. Here's to a successful
+primary fermentation!
 
